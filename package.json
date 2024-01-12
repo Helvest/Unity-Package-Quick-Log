@@ -1,0 +1,19 @@
+{
+  "name": "com.helvest.quicklog",
+  "version": "1.0.0",
+  "displayName": "QuickLog",
+  "description": "Class to extend and setup logs",
+  "keywords": [
+    "Log",
+    "File",
+    "Debug"
+  ],
+  "author": {
+    "name": "Pedro Dominic\u00e9 (Helvest)",
+    "url": "https://twitter.com/HelvestEpic"
+  },
+  "repository": {
+    "url": "https://github.com/Helvest/Unity-Package-Quick-Log.git",
+    "type": "git"
+  }
+}
